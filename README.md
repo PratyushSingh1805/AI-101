@@ -9,8 +9,8 @@ The goal of this project was to explore core machine learning concepts through h
 ## Project Highlights
 
 - **Vanilla Neural Network & Convolutional Neural Network**
-  - Trained from scratch and achieved **100%** accuracy on **Iris data set**.
-  - Designed and trained a CNN for handwritten digit classification on **MNIST data set**, achieving **99.13%** test precision accuracy.
+  - Trained from scratch and achieved **100%** accuracy on the **Iris data set**.
+  - Designed and trained a CNN for handwritten digit classification on the **MNIST data set**, achieving **99.13%** test precision accuracy.
 
 - **Autoencoder-Classifier Pipeline**
   - Built a modular convolutional autoencoder on CIFAR-10
